@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Zicong Zhang"
+title: "Zicong Zhang(张子聪)"
 title_separator: "-"
-name: &name "Your Name"
-description: &description "personal description"
+name: &name "Zicong Zhang"
+description: &description "undergraduate student from SJTU"
 url: https://zhangzicong518.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "zhangzicong518/zhangzicong518.github.io"
@@ -21,7 +21,7 @@ repository: "zhangzicong518/zhangzicong518.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic informationprofile
-  avatar: "images/profile.jpg"
+  avatar: "ZicongZhang.jpg"
   name: "Zicong Zhang"
   pronouns: # example: "she/her"
   bio: "undergraduate student from SJTU"
