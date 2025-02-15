@@ -12,7 +12,7 @@ title: "Zicong Zhang"
 title_separator: "-"
 name: &name "Your Name"
 description: &description "personal description"
-url: https://zhangzicong518.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url: https://zhangzicong518.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "zhangzicong518/zhangzicong518.github.io"
 
@@ -20,8 +20,8 @@ repository: "zhangzicong518/zhangzicong518.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar: "profile.png"
+  # Biographic informationprofile
+  avatar: "images/profile.jpg"
   name: "Zicong Zhang"
   pronouns: # example: "she/her"
   bio: "undergraduate student from SJTU"
