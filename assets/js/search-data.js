@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "This is a brief version of my CV. For more detailed infomation, you can download the pdf by clicking the upper right button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -501,14 +501,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("mailto:%7A%68%61%6E%67%7A%69%63%6F@%73%6A%74%75.%65%64%75.%63%6E", "_blank");
         },
       },{
         id: 'social-rss',
@@ -525,11 +518,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-telegram',
+        title: 'telegram',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://telegram.me/chive", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/zhngzicng86745", "_blank");
         },
       },{
       id: 'light-theme',
