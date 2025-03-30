@@ -193,6 +193,11 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+# zicong my personal customzed
+  - _pages/dropdown.md
+  - _pages/teaching.md
+  - _pages/projects.md
+  - _pages/repository.md
 keep_files:
   - CNAME
   - .nojekyll

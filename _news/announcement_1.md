@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-07
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I'm fortunate to join SJTU [MIFA lab](https://mifa.sjtu.edu.cn/) as a research intern, advised by Prof [Weiran Huang](https://mifa.sjtu.edu.cn/~weiranhuang/) !
