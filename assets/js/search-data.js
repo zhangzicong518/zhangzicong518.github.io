@@ -450,6 +450,13 @@ ninja.data = [{
           window.open("mailto:%7A%68%61%6E%67%7A%69%63%6F@%73%6A%74%75.%65%64%75.%63%6E", "_blank");
         },
       },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/24.80141846", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
@@ -461,14 +468,14 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=g_zUZEcAAAAJ", "_blank");
         },
       },{
-        id: 'social-telegram',
-        title: 'telegram',
+        id: 'social-semanticscholar',
+        title: 'Semantic Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://telegram.me/chive", "_blank");
+          window.open("https://www.semanticscholar.org/author/2350991353", "_blank");
         },
       },{
         id: 'social-x',
