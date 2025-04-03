@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "latest update: March 31st, 2025"
+subtitle: "latest update: April 3rd, 2025"
 
 profile:
   align: right
@@ -38,4 +38,4 @@ I'm boradly interested in exploring how to develop efficient, adaptive, and expl
 
 My research interests now lies in but not limited to : **Continual Learning**, **Transfer Learning**, **Multimodal Models**
 
-I'm looking for on-site summer research position!. 
+I'm looking for a on-site summer research position!. 
