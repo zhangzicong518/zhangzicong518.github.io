@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "latest update: April 3rd, 2025"
+subtitle: "latest update: Dec 17th, 2025"
 
 profile:
   align: right
@@ -32,10 +32,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Zicong Zhang, a second-year student majoring in Computer Science, from John Hopcroft Class, Zhiyuan College, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I'm currently a research student in SJTU [MIFA Lab](https://www.weiranhuang.com/) advised by Prof. [Weiran Huang](https://www.weiranhuang.com/) and a remote intern at UMD advised by Prof. [Tianyi Zhou](https://tianyizhou.github.io/).
+Hi! I'm Zicong Zhang, a second-year student majoring in Computer Science, from John Hopcroft Class, Zhiyuan College, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I'm currently a research intern at MSRA advised by [Yifan Yang](https://www.microsoft.com/en-us/research/people/yifanyang/). And I was fortunate to be advised by Prof. [Weiran Huang](https://www.weiranhuang.com/) in SJTU [MIFA Lab](https://www.weiranhuang.com/) and Prof. [Tianyi Zhou](https://tianyizhou.github.io/) in UMD.
 
 I'm boradly interested in exploring how to develop efficient, adaptive, and explainable AI.
 
-My research interests now lies in but not limited to : **Continual Learning**, **Transfer Learning**, **Multimodal Models**
+My research interests now lies in but not limited to :  **Multimodal Reasoning**, **General Agent**, **Continual Learning**
 
-I'm looking for a on-site summer research position!. 
+I'm looking for an on-ste 26 summer research position !
