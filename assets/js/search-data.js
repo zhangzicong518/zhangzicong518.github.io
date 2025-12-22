@@ -397,7 +397,7 @@ ninja.data = [{
           section: "News",},{id: "news-co-first-author-paper-enhanced-continual-learning-of-vision-language-models-with-model-fusion-has-been-accepted-by-13th-iclr-scope-workshop-sparkles",
           title: 'Co-first author paper Enhanced Continual Learning of Vision-Language Models With Model Fusion has...',
           description: "",
-          section: "News",},{id: "news-i-m-fortunate-to-join-microsoft-research-asia-as-a-research-intern-advised-by-yifan-yang-and-dr-chong-luo",
+          section: "News",},{id: "news-i-m-fortunate-to-join-microsoft-research-asia-as-a-research-intern-advised-by-yifan-yang",
           title: 'I’m fortunate to join Microsoft Research Asia as a research intern, advised by...',
           description: "",
           section: "News",},{id: "projects-project-1",
