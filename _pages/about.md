@@ -32,10 +32,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Zicong Zhang, a third-year student majoring in Computer Science, from John Hopcroft Class, Zhiyuan College, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I'm currently a research intern at MSRA advised by [Yifan Yang](https://www.microsoft.com/en-us/research/people/yifanyang/). And I was fortunate to be advised by Prof. [Weiran Huang](https://www.weiranhuang.com/) in SJTU [MIFA Lab](https://www.weiranhuang.com/) and Prof. [Tianyi Zhou](https://tianyizhou.github.io/) in UMD.
+Hi! I'm Zicong Zhang, a third-year student majoring in Computer Science, from John Hopcroft Class, Zhiyuan College, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I'm currently a research intern at MSRA advised by [Yifan Yang](https://www.microsoft.com/en-us/research/people/yifanyang/). And I was fortunate to be advised by Prof. [Weiran Huang](https://www.weiranhuang.com/) in SJTU [MIFA Lab](https://www.weiranhuang.com/). 
 
-I'm boradly interested in exploring how to develop efficient, adaptive, and explainable AI.
+---
 
-My research interests now lies in but not limited to :  **Multimodal Reasoning**, **General Agent**, **Continual Learning**
+I'm broadly interested in building **Versatile, Intelligent, Ever-Learning Agents** that can continuously learn and reason across vision, language, and real-world environment. My research focuses now lies in but not limited to these mutually reinforcing themes:
 
-I'm looking for an on-ste 26 summer research position !
+- **Multimodal Understanding & Reasoning** : unifying vision-language representations with chain-of-thought and tool-augmented reasoning
+
+- **Tool-Integrated Learning** : training models to acquire, compose and refine tool-use strategies in complicated, open-world settings
+
+- **Continual & Transferable Learning** : enabling agents to merge new knowledge with prior skills while mitigating forgetting, and to generalize zero-shot to novel tasks and human preferences
+
+---
+
+**I'm looking for an on-site 26 summer research position !**

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm fortunate to join Microsoft Research Asia as a research intern, advised by  [Yifan Yang](https://www.microsoft.com/en-us/research/people/yifanyang/) and Dr. [Chong Luo](https://www.microsoft.com/en-us/research/people/cluo/) !
+I'm fortunate to join Microsoft Research Asia as a research intern, advised by  [Yifan Yang](https://www.microsoft.com/en-us/research/people/yifanyang/) !
