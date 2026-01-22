@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "latest update: Dec 22th, 2025"
+subtitle: "latest update: Jan 22th, 2026"
 
 profile:
   align: right
@@ -15,7 +15,7 @@ profile:
     </p>
     <br>
     <p style="font-size: 16px; color: #333; font-family: sans-serif;">
-      <a href="https://zhangzicong518.github.io/assets/pdf/CV_Zicong_Zhang_en&zh.pdf" style="color: var(--global-theme-color); text-decoration: none; font-family: sans-serif;">CV(zh-cn&en)</a>
+      <a href="https://zhangzicong518.github.io/assets/pdf/CV_ZicongZhang_en&zh.pdf" style="color: var(--global-theme-color); text-decoration: none; font-family: sans-serif;">CV(zh-cn&en)</a>
     </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
