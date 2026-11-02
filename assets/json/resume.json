@@ -2,55 +2,98 @@
   "basics": {
     "name (en)": "Zicong Zhang",
     "name (zh)": "张子聪",
-    "email": "zhangzicong@sjtu.edu.cn",
-    "brief": "second-year undergraduate student from John Hopcroft Class, Zhiyuan College, Shanghai Jiao Tong University, majoring in Computer Science"
+    "email": "zhangzico@sjtu.edu.cn",
+    "brief": "Computer Science undergraduate in the John Hopcroft Class, Zhiyuan College, Shanghai Jiao Tong University; visiting student at Harvard Vision and Learning Lab, working with Prof. Qianqian Wang."
   },
   "education": [
     {
       "institution": "Shanghai Jiao Tong University",
       "location": "Shanghai, China",
       "url": "https://www.sjtu.edu.cn/",
-      "studyType": "undergraduate",
+      "studyType": "B.S. in Computer Science",
       "startDate": "2023-09-01",
-      "endDate": "2027-06-30(Expected)",
-      "area": "Computer Science"
+      "endDate": "",
+      "area": "Computer Science",
+      "score": "89.5/100",
+      "courses": [
+        "John Hopcroft Class, Zhiyuan College (Honor Program)",
+        "GPA: 89.5/100"
+      ]
     }
   ],
   "research experience": [
     {
-      "name": "MIFA Lab, SJTU",
-      "position": "Research Intern",
-      "url": "https://huanglab.feishu.cn/docx/T11adQglboDFCaxXDuvcRqnpnQg",
-      "startDate": "2024.07",
-      "endDate": "present",
-      "summary": "Multimodal Foundation Model, Continual Learning"
+      "organization": "Harvard Vision and Learning Lab",
+      "position": "Visiting Student",
+      "url": "https://qianqianwang68.github.io/",
+      "startDate": "2026-08",
+      "endDate": "",
+      "summary": "Jacobian-Aware Post-Training for One-Step Generation",
+      "highlights": [
+        "Advisor: Prof. <a href=\"https://qianqianwang68.github.io/\">Qianqian Wang</a>.",
+        "Studying distribution matching and generator Jacobian geometry for efficient one-step generation."
+      ]
     },
     {
-      "name": "CoPhi Lab, SJTU",
+      "organization": "Microsoft Research Asia",
       "position": "Research Intern",
-      "url": "http://linyun.info/team.html",
-      "startDate": "2024.09",
-      "endDate": "present",
-      "summary": "Training Dynamic, Code Retrieval"
+      "url": "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/",
+      "startDate": "2025-07",
+      "endDate": "2026-01",
+      "summary": "Multimodal Reasoning and Self-Evolving Agent",
+      "highlights": [
+        "Advisors: Yifan Yang and Chong Luo.",
+        "Designed tool-integrated reinforcement learning for multimodal reasoning; developed EnvOpt for closed-loop environment optimization."
+      ]
+    },
+    {
+      "organization": "SJTU MIFA Lab",
+      "position": "Research Intern",
+      "url": "https://www.weiranhuang.com/",
+      "startDate": "2024-07",
+      "endDate": "2025-04",
+      "summary": "Continual Learning with Model Fusion",
+      "highlights": [
+        "Advisor: Prof. Weiran Huang.",
+        "Co-led a model-fusion framework for continual learning of vision-language models."
+      ]
     }
   ],
   "awards": [
     {
       "title": "Zhiyuan Honor Awards (Top 10% in SJTU)",
-      "date": "2023,2024"
+      "date": "2023, 2024, 2025, 2026"
     },
     {
       "title": "The Third Prize of Academic Scholarship (Top 30% in major)",
-      "date": "2024"
+      "date": "2024, 2025, 2026"
+    },
+    {
+      "title": "Honorable Mention, Mathematical Contest in Modeling",
+      "date": "2025"
     }
   ],
   "publications": [
     {
+      "name": "EnvOpt: Closed-Loop Environment Optimization for Agent Post-Training",
+      "publisher": "Zicong Zhang*, Zisu Huang*, Jingwen Xu, Rui Wang, Yifan Yang, Muzhao Tian, Xuemei Gao, Qi Dai, Bei Liu, Kai Qiu, Dongdong Chen, Xiaoqing Zheng, Chong Luo",
+      "releaseDate": "2026",
+      "url": "/projects/envopt/",
+      "summary": "Under Review. * Equal contribution."
+    },
+    {
       "name": "Enhanced Continual Learning of Vision-Language Models with Model Fusion",
-      "publisher": "Haoyuan Gao, Zicong Zhang, Yuqi Wei, Linglan Zhao, Guilin Li, Yexin Li, Linghe Kong, Weiran Huang",
-      "releaseDate": "2025.03",
-      "url": "https://openreview.net/pdf?id=EAvuWKHhtq",
-      "summary": "The 13th International Conference on Learning Representations SCOPE Workshop"
+      "publisher": "Haoyuan Gao*, Zicong Zhang*, Yuqi Wei, Linglan Zhao, Guilin Li, Yexin Li, Linghe Kong, Weiran Huang",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2503.10705",
+      "summary": "The Fourteenth International Conference on Learning Representations (ICLR 2026). * Equal contribution."
+    },
+    {
+      "name": "XSearch: Explainable Code Search via Concept-to-Code Alignment",
+      "publisher": "Yiming Liu, Ruofan Liu, Yun Lin, Zicong Zhang, Weiyu Kong, Pengnian Qi, Xiao Cheng, Weinan Zhang, Qianxiang Wang, Linpeng Huang",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2605.16046",
+      "summary": "The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)."
     }
   ],
   "skills": [
@@ -66,12 +109,12 @@
       "name": "Technologies",
       "keywords": [
         "Git",
-        "Latex",
-        "Pytorch",
-        "Cmake",
-        "Linux",
-        "Numpy",
-        "Matplotlib"
+        "PyTorch",
+        "LaTeX",
+        "vLLM",
+        "VeRL",
+        "LLaMA-Factory",
+        "DeepSpeed"
       ]
     }
   ],
@@ -100,13 +143,26 @@
   ],
   "projects": [
     {
-      "name": "Continual Learning Framworks for VLMs",
+      "name": "EnvOpt: Environment Optimization for Self-Evolving Agents",
+      "url": "/projects/envopt/",
+      "startDate": "2025-12",
+      "endDate": "2026-07",
+      "summary": "Microsoft Research Asia · Under review",
       "highlights": [
-        "Designed a continual learning framework for VLMs by introducing model fusion",
-        "Deployed a pipeline and conducted extensive experiments on multiple benchmarks, achieving up to 2% improvement over other state-of-the-art continual learning methods. "
+        "Designed a traceable behavioral map, target-conditioned context refinement, and iterative environment construction.",
+        "Raised the learnable-task rate from 21% to 57%, with approximately 15 percentage points of average improvement over the base model across four agentic tool-use benchmarks."
+      ]
+    },
+    {
+      "name": "Scaling Active Perception for Multimodal Reasoning",
+      "startDate": "2025-07",
+      "endDate": "2026-01",
+      "summary": "Microsoft Research Asia",
+      "highlights": [
+        "Unified long-chain reasoning and tool-calling through SFT and RL.",
+        "Designed mode-aware process rewards and improved over the original VLM on MathVision, MathVista, HRBench, and V*."
       ],
-      "startDate": "2024.7",
-      "endDate": "2025.1"
+      "url": "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
     }
   ]
 }

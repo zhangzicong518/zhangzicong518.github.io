@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "latest update: Jan 28th, 2026"
+subtitle: "latest update: Nov 2, 2026"
 
 profile:
   align: right
@@ -15,7 +15,7 @@ profile:
     </p>
     <br>
     <p style="font-size: 16px; color: #333; font-family: sans-serif;">
-      <a href="https://zhangzicong518.github.io/assets/pdf/CV_ZicongZhang_en.pdf" style="color: var(--global-theme-color); text-decoration: none; font-family: sans-serif;">CV(en)</a>
+      <a href="/assets/pdf/CV_ZicongZhang_en.pdf" style="color: var(--global-theme-color); text-decoration: none; font-family: sans-serif;">CV(en)</a>
     </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -32,18 +32,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Zicong Zhang, a third-year student majoring in Computer Science, from John Hopcroft Class, Zhiyuan College, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I'm currently a research intern at MSRA advised by [Yifan Yang](https://www.microsoft.com/en-us/research/people/yifanyang/). And I was fortunate to be advised by Prof. [Weiran Huang](https://www.weiranhuang.com/) in SJTU [MIFA Lab](https://www.weiranhuang.com/). 
+Hi! I'm Zicong Zhang, an undergraduate student majoring in Computer Science in the John Hopcroft Class at Zhiyuan College, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). Since August 2026, I have been a visiting student at **Harvard Vision and Learning Lab**, working with Prof. [Qianqian Wang](https://qianqianwang68.github.io/).
+
+Previously, I was a research intern at Microsoft Research Asia, advised by [Yifan Yang](https://www.microsoft.com/en-us/research/people/yifanyang/) and Chong Luo, and at SJTU MIFA Lab, advised by Prof. [Weiran Huang](https://www.weiranhuang.com/).
 
 ---
 
-I'm broadly interested in building **Versatile, Intelligent, Ever-Learning Agents** that can continuously learn and reason across vision, language, and real-world environment. My research focuses now lies in but not limited to these mutually reinforcing themes:
+I'm interested in building **Versatile, Intelligent, Ever-Learning Agents** that continuously learn and reason across vision, language, and real-world environments. My current research spans:
 
-- **Multimodal Understanding & Reasoning** : unifying vision-language representations with chain-of-thought and tool-augmented reasoning
-
-- **Tool-Integrated Learning** : training models to acquire, compose and refine tool-use strategies in complicated, open-world settings
-
-- **Continual & Transferable Learning** : enabling agents to merge new knowledge with prior skills while mitigating forgetting, and to generalize zero-shot to novel tasks and human preferences
-
----
-
-**I'm looking for an on-site 26 summer research position !**
+- **Generative Modeling & Post-Training**: distribution matching and Jacobian-aware post-training for efficient one-step generation.
+- **Self-Evolving Agents & Environment Optimization**: closing the loop between behavioral diagnosis, environment construction, reinforcement learning, and evaluation.
+- **Multimodal Reasoning & Continual Learning**: integrating reasoning with visual tools and enabling vision-language models to acquire and retain new knowledge.
