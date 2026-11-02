@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a brief version of my CV. For more detailed infomation, you can download the pdf by clicking the upper right button.",
+          description: "Education, research experience, and projects. Download my latest CV using the PDF icon.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -403,6 +403,12 @@ ninja.data = [{
           section: "News",},{id: "news-co-first-author-paper-enhanced-continual-learning-of-vision-language-models-with-model-fusion-has-been-accepted-by-14th-iclr-see-u-in-brazil",
           title: 'Co-first author paper Enhanced Continual Learning of Vision-Language Models With Model Fusion has...',
           description: "",
+          section: "News",},{id: "news-i-m-fortunate-to-join-harvard-vision-and-learning-lab-as-a-visiting-student-working-with-prof-qianqian-wang",
+          title: 'I’m fortunate to join Harvard Vision and Learning Lab as a visiting student,...',
+          description: "",
+          section: "News",},{id: "news-we-have-completed-envopt-closed-loop-environment-optimization-for-agent-post-training-the-detailed-framework-and-code-will-be-released-soon-stay-tuned",
+          title: 'We have completed EnvOpt: Closed-Loop Environment Optimization for Agent Post-Training! The detailed framework...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -448,6 +454,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-envopt",
+          title: 'EnvOpt',
+          description: "Closed-loop environment optimization for agent post-training.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/envopt/";
             },},{
         id: 'social-email',
         title: 'email',
